@@ -1,7 +1,5 @@
 # Raku Logo
 
-## Version 1
-
 ### The concepts
 
 With this version of the logo, I tried to capture the *essence* of two 
@@ -27,11 +25,20 @@ Its transparency allows for different color combinations. Ideally, the joints
 would remain golden (or some silvery-platinum color) but it can be changed
 to fit the occasion.
 
-Right below there's a picture with the logo (alongside the name Raku)
-with transparency and some color with transparent and white backgrounds.
-If someone would like to play with different color combinations,
-I've also provided the SVG files.
-
 ### Images
 
-![banner](https://raw.githubusercontent.com/uzluisf/raku-logo/master/v1/raku-banner.png)
+#### Design stages
+
+![ds](https://raw.githubusercontent.com/uzluisf/raku-logo/master/v1/images/logo-design-stages.png)
+
+#### Variations of the logo
+
+![vl](https://raw.githubusercontent.com/uzluisf/raku-logo/master/v1/images/logo-variation-array.png)
+
+#### Logo Banners
+
+![lbtransp](https://raw.githubusercontent.com/uzluisf/raku-logo/master/v1/images/banners-transparent-bg.png)
+
+![lbsilvery](https://raw.githubusercontent.com/uzluisf/raku-logo/master/v1/images/banners-silvery-bg.png)
+
+![lbrose](https://raw.githubusercontent.com/uzluisf/raku-logo/master/v1/images/banners-rose-bg.png)
